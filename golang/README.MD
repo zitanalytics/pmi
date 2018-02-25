@@ -12,4 +12,4 @@ How to run .go on macOS to generate the simplified version of Surroundings.json
 
 See `go_run_json.png` to replicate the process.
 
-The surroundings with at least of one sublist are kept, in other words, this is the amenities that are present around each store_code
+The surroundings with at least one sublist are kept, in other words, this is the amenities that are present around each store_code
