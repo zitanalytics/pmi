@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519574226123.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3299934696",
+    "id" : "A379D2F0",
+    "lastKnownWriteTime" : 1519574773,
+    "last_content_update" : 1519574773682,
+    "path" : "~/Downloads/pmi/json.R",
+    "project_path" : "json.R",
+    "properties" : {
+        "cursorPosition" : "22,56",
+        "scrollLine" : "10"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

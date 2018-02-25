@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519574367018.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1846919246",
+    "id" : "AEB0E5F",
+    "lastKnownWriteTime" : 1519575060,
+    "last_content_update" : 1519575060025,
+    "path" : "~/Downloads/pmi/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "236,14",
+        "scrollLine" : "226"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
